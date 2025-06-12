@@ -120,7 +120,7 @@ I also built a Tableau dashboard to visually highlight trends in profit, sales, 
 | `*.csv` | Output of each analysis query |
 | `images/*.png` | Tableau screenshots |
 | `README.md` | Project summary |
-| `superstore_case_study.pdf` | 📄 Full PDF version of this project *(Coming soon)* |
+| `superstore_case_study.pdf` | Full PDF version of this project |
 
 ---
 
